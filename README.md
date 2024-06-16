@@ -1,2 +1,2 @@
 # HFUTWIFIAutoConnect
-A software to deal with the annoyingly repeating requires for login.
+为了解决校园网令人恼怒地频繁让你登录，并且网页上的保存密码对于多个地点没有任何作用。因此开发了这款app（代码写的比较简陋)
